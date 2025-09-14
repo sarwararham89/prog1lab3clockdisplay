@@ -64,4 +64,6 @@ Question 32: (8 % 3) -> 8 % 3 = 2
 Question 33: When i try with other numbers i think it gives the remainder of the calculation meaning if i do (4%2) it will give me 0, it just gives you the leftovers. When i tried with negative numbers, the result is a negative number. 
 Question 34: it depends on the sign of n but here are all the posibilities; 0,1,2,3,4. 
 Question 35: it depends of the value of m to determine the value of n. 
-Question 37: The second option is better  in my opnion, its so much easier to do just 24 instead of 12.
+Question 37: The second option is better  in my opnion, its so much easier to do just 24 instead of 12. 
+ADDING STEP 51 FROM PART 3 OF THE CHAPTER 3 PROJECT. 
+
